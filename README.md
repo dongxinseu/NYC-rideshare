@@ -1,3 +1,2 @@
 # NYC-rideshare
-the rideshare data analysis in 2019
-data is in data file
+data source: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
